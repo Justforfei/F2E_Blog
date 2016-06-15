@@ -1,12 +1,4 @@
-#F2E blog
-This is a technology blog about F2E.
+# F2E blog
 
-
-All blogs are in the issues.
-
-
-No news is best news!
-
-I'm feature!
-dev is here!
+此博客用来记录一些前端技术文章，大多数是以前写的笔记和记录
 
